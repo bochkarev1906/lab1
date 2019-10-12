@@ -1,5 +1,4 @@
 
-
 public class Client {
     private String fullName;
     private String address;
