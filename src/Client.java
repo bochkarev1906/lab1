@@ -36,4 +36,8 @@ public class Client {
     public boolean checkFormatName(){
         return fullName.charAt(0) >= 'A' && fullName.charAt(0) <= 'Z' ;
     }
+
+    public boolean checkFormatPassword(){
+        return numberOfPassport.length() == 10 ;
+    }
 }
