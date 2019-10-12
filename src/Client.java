@@ -32,4 +32,8 @@ public class Client {
     public String getMobilePhone() { return mobilePhone; }
 
     public Double getSalary() { return salary; }
+
+    public boolean checkFormatName(){
+        return fullName.charAt(0) >= 'A' && fullName.charAt(0) <= 'Z' ;
+    }
 }
