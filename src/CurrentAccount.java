@@ -33,4 +33,16 @@ public class CurrentAccount {
         System.out.println("\nBalance of Current account of " + client.getFullName() + " is " + this.balance);
     }
 
+    void withdrawMoneyInOtherBank(double amountMoney){
+        double procent = 0.02;
+        if(this.balance < amountMoney){
+            System.out.println("Not enough money.");
+        }
+        else{
+            this.balance -= amountMoney * (1 + procent);
+            System.out.println("\nWithdrawal in other bank " + amountMoney + " from Current account from " + this.client.getFullName() + ". Current balance: " + this.balance);
+        }
+
+    }
+
 }
