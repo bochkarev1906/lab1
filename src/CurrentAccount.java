@@ -39,6 +39,7 @@ public class CurrentAccount {
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     void withdrawMoneyInOtherBank(double amountMoney){
         double procent = 0.02;
         if(this.balance < amountMoney){
@@ -49,6 +50,10 @@ public class CurrentAccount {
             System.out.println("\nWithdrawal in other bank " + amountMoney + " from Current account from " + this.client.getFullName() + ". Current balance: " + this.balance);
         }
 
+=======
+    public void roundBalance(){
+        this.balance = round(this.balance * 100.0) / 100.0;
+>>>>>>> feature
 =======
     public void roundBalance(){
         this.balance = round(this.balance * 100.0) / 100.0;
