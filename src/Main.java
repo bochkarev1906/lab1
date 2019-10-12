@@ -2,6 +2,8 @@ import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import static java.lang.Math.round;
+
 public class Main {
     public static void main(String args[]) throws Exception{
 
@@ -34,7 +36,6 @@ public class Main {
         strings.clear();
 
         CurrentAccount currentAccount = new CurrentAccount(client1, 25000);
-
     }
 
 }

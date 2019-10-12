@@ -1,3 +1,5 @@
+import static java.lang.Math.round;
+
 public class CurrentAccount {
 
     private double balance;
@@ -31,6 +33,10 @@ public class CurrentAccount {
 
     public void getBalanceToString() {
         System.out.println("\nBalance of Current account of " + client.getFullName() + " is " + this.balance);
+    }
+
+    public void roundBalance(){
+        this.balance = round(this.balance * 100.0) / 100.0;
     }
 
 }
