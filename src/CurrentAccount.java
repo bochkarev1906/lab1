@@ -35,41 +35,15 @@ public class CurrentAccount {
         System.out.println("\nBalance of Current account of " + client.getFullName() + " is " + this.balance);
     }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    void withdrawMoneyInOtherBank(double amountMoney){
+    void withdrawMoneyInOtherBank(double amountMoney) {
         double procent = 0.02;
-        if(this.balance < amountMoney){
+        if (this.balance < amountMoney) {
             System.out.println("Not enough money.");
-        }
-        else{
+        } else {
             this.balance -= amountMoney * (1 + procent);
             System.out.println("\nWithdrawal in other bank " + amountMoney + " from Current account from " + this.client.getFullName() + ". Current balance: " + this.balance);
         }
-
-=======
-    public void roundBalance(){
-        this.balance = round(this.balance * 100.0) / 100.0;
->>>>>>> feature
-=======
-    public void roundBalance(){
-        this.balance = round(this.balance * 100.0) / 100.0;
->>>>>>> feature
-=======
-    public void roundBalance(){
-        this.balance = round(this.balance * 100.0) / 100.0;
->>>>>>> feature
-=======
-    public void roundBalance(){
-        this.balance = round(this.balance * 100.0) / 100.0;
->>>>>>> feature
-=======
-    public void roundBalance(){
-        this.balance = round(this.balance * 100.0) / 100.0;
->>>>>>> feature
     }
+
 
 }
