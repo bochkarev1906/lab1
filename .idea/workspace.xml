@@ -6,7 +6,10 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/src/CurrentAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CurrentAccount.java" afterDir="false" />
+=======
+>>>>>>> feature
 =======
 >>>>>>> feature
 =======
@@ -117,8 +120,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="java" value="203" />
           <entry key="txt" value="36" />
+=======
+          <entry key="java" value="418" />
+          <entry key="txt" value="52" />
+>>>>>>> feature
 =======
           <entry key="java" value="418" />
           <entry key="txt" value="52" />
@@ -138,8 +146,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
           <entry key="JAVA" value="203" />
           <entry key="PLAIN_TEXT" value="36" />
+=======
+          <entry key="JAVA" value="418" />
+          <entry key="PLAIN_TEXT" value="52" />
+>>>>>>> feature
 =======
           <entry key="JAVA" value="418" />
           <entry key="PLAIN_TEXT" value="52" />
@@ -176,7 +189,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="480">
+=======
+            <state relative-caret-position="-144">
+>>>>>>> feature
 =======
             <state relative-caret-position="-144">
 >>>>>>> feature
@@ -200,8 +217,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="316">
               <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+=======
+            <state relative-caret-position="656">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+>>>>>>> feature
 =======
             <state relative-caret-position="656">
               <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
@@ -230,9 +252,12 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
             <state relative-caret-position="316">
               <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
 =======
+=======
+>>>>>>> feature
 =======
 >>>>>>> feature
 =======
@@ -245,6 +270,9 @@
               </folding>
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> feature
+=======
 >>>>>>> feature
 =======
 >>>>>>> feature
@@ -473,6 +501,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <task id="LOCAL-00003" summary="Saved">
       <created>1570895608474</created>
       <option name="number" value="00003" />
@@ -482,6 +511,8 @@
     </task>
     <option name="localTasksCounter" value="4" />
 =======
+=======
+>>>>>>> feature
 =======
 >>>>>>> feature
 =======
@@ -503,6 +534,9 @@
     <option name="localTasksCounter" value="5" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> feature
+=======
 >>>>>>> feature
 =======
 >>>>>>> feature
@@ -553,7 +587,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.025706941" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17159383" />
+>>>>>>> feature
 =======
       <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17159383" />
 >>>>>>> feature
@@ -572,7 +610,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3379694" />
+=======
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3379694" />
+>>>>>>> feature
 =======
       <window_info anchor="bottom" id="Run" order="5" weight="0.3379694" />
 >>>>>>> feature
@@ -634,8 +676,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <MESSAGE value="Saved" />
     <option name="LAST_COMMIT_MESSAGE" value="Saved" />
+=======
+    <MESSAGE value="roundBalance" />
+    <MESSAGE value="checkMobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="checkMobile" />
+>>>>>>> feature
 =======
     <MESSAGE value="roundBalance" />
     <MESSAGE value="checkMobile" />
@@ -666,8 +714,11 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/CurrentAccountTest.java">
 =======
+=======
+>>>>>>> feature
 =======
 >>>>>>> feature
 =======
@@ -685,6 +736,7 @@
     <entry file="file://$PROJECT_DIR$/src/CurrentAccountTest.java">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
@@ -692,6 +744,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
+=======
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="636">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+>>>>>>> feature
 =======
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
@@ -708,6 +765,9 @@
         <state relative-caret-position="576">
           <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> feature
+=======
 >>>>>>> feature
 =======
 >>>>>>> feature
@@ -717,6 +777,7 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Main.java">
@@ -736,12 +797,19 @@
         <state relative-caret-position="-144">
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
 >>>>>>> feature
+=======
+    <entry file="file://$PROJECT_DIR$/src/SimpleGUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+>>>>>>> feature
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/SimpleGUI.java">
@@ -756,6 +824,16 @@
     </entry>
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/src/Main.java">
+=======
+    <entry file="file://$PROJECT_DIR$/src/DepositAccount.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CurrentAccount.java">
+>>>>>>> feature
 =======
     <entry file="file://$PROJECT_DIR$/src/DepositAccount.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -783,6 +861,7 @@
             <element signature="e#1229#1230#0" expanded="true" />
             <element signature="e#1293#1294#0" expanded="true" />
           </folding>
+<<<<<<< HEAD
 <<<<<<< HEAD
         </state>
       </provider>
@@ -819,6 +898,8 @@
           </folding>
 =======
 >>>>>>> feature
+=======
+>>>>>>> feature
         </state>
       </provider>
     </entry>
@@ -827,8 +908,13 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         <state relative-caret-position="316">
           <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+=======
+        <state relative-caret-position="656">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+>>>>>>> feature
 =======
         <state relative-caret-position="656">
           <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
