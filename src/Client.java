@@ -5,7 +5,7 @@ public class Client {
     private String numberOfPassport;
     private String mobilePhone;
     private Double salary;
-
+    private boolean validMobile = false;
 
     Client(String fullName, String address, String numberOfPassport, String mobilePhone, Double salary) {
         this.fullName = fullName;
@@ -38,5 +38,16 @@ public class Client {
 
     public boolean checkFormatPassword(){
         return numberOfPassport.length() == 10 ;
+    }
+
+    public boolean checkMobile(){
+        if(!this.validMobile) {
+            // send message with code
+            this.validMobile = true;
+            return true;
+        }
+        else {
+            return true;
+        }
     }
 }
