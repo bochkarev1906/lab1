@@ -121,8 +121,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="258">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
+=======
+            <state relative-caret-position="576">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SimpleGUI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-144">
+              <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
+>>>>>>> feature
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -133,8 +150,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="270">
               <caret line="585" column="23" lean-forward="true" selection-start-line="585" selection-start-column="23" selection-end-line="585" selection-end-column="23" />
+=======
+            <state relative-caret-position="656">
+              <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+              <folding>
+                <element signature="e#973#974#0" expanded="true" />
+                <element signature="e#1051#1052#0" expanded="true" />
+                <element signature="e#1094#1095#0" expanded="true" />
+                <element signature="e#1172#1173#0" expanded="true" />
+              </folding>
+>>>>>>> feature
             </state>
           </provider>
         </entry>
@@ -142,10 +170,18 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SimpleGUI.java">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state relative-caret-position="31">
               <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
+=======
+            <state relative-caret-position="208">
+              <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+              <folding>
+                <element signature="e#1229#1230#0" expanded="true" />
+                <element signature="e#1293#1294#0" expanded="true" />
+>>>>>>> feature
               </folding>
             </state>
           </provider>
@@ -160,6 +196,7 @@
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CurrentAccount.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -178,6 +215,8 @@
           </provider>
         </entry>
       </file>
+=======
+>>>>>>> feature
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -442,14 +481,22 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17352185" />
+=======
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.17159383" />
+>>>>>>> feature
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
+<<<<<<< HEAD
       <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3379694" />
+=======
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3379694" />
+>>>>>>> feature
       <window_info anchor="bottom" id="Debug" order="6" weight="0.3991655" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
@@ -518,6 +565,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="768">
           <caret line="58" selection-start-line="58" selection-end-line="58" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> feature
         </state>
       </provider>
     </entry>
@@ -525,13 +578,24 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="636">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
+<<<<<<< HEAD
+=======
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+>>>>>>> feature
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="258">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
+=======
+        <state relative-caret-position="576">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+>>>>>>> feature
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -540,7 +604,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleGUI.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="31">
+=======
+        <state relative-caret-position="-144">
+>>>>>>> feature
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -557,15 +625,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CurrentAccount.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="290">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
+=======
+        <state relative-caret-position="208">
+          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <folding>
+            <element signature="e#1229#1230#0" expanded="true" />
+            <element signature="e#1293#1294#0" expanded="true" />
+          </folding>
+>>>>>>> feature
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Client.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="479">
           <caret line="47" column="9" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+=======
+        <state relative-caret-position="656">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+          <folding>
+            <element signature="e#973#974#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+            <element signature="e#1094#1095#0" expanded="true" />
+            <element signature="e#1172#1173#0" expanded="true" />
+          </folding>
+>>>>>>> feature
         </state>
       </provider>
     </entry>
